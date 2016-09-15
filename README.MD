@@ -13,6 +13,8 @@ This software requires OCR training data for screen text recognition in the fold
 Training data samples for different languages can be found [here](https://github.com/tesseract-ocr/tessdata)
 
 
+#### <i class="icon-file"></i> .NET Framework 4.5.2
+This software requires [.NET Framework 4.5.2](https://www.microsoft.com/en-us/download/details.aspx?id=42642)  or adove.
 
 
 #### <i class="icon-file"></i> languages.json 
