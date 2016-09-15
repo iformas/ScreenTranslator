@@ -1,7 +1,7 @@
 Screen Translator
 ===================
 
-Detect the text in your screen using Emgu CV for instant translation via Google Translate.→→
+Screen Translator for Windows, detects the text in your screen using Emgu CV for instant translation via Google Translate.→→
 Builds can be found [here](https://github.com/iformas/ScreenTranslator/releases)
 
 ----------
