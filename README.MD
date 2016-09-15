@@ -1,7 +1,8 @@
 Screen Translator
 ===================
 
-Detect the text in your screen using Emgu CV for instant translation via Google Translate.
+Detect the text in your screen using Emgu CV for instant translation via Google Translate.→→
+Builds can be found [here](https://github.com/iformas/ScreenTranslator/releases)
 
 ----------
 
@@ -9,7 +10,7 @@ Requeriments
 -------------
 
 #### <i class="icon-file"></i> OCR Training Data
-This software requires OCR training data for screen text recognition in the folder “tessdata”.
+This software requires OCR training data for screen text recognition in the folder “tessdata”.→→
 Training data samples for different languages can be found [here](https://github.com/tesseract-ocr/tessdata)
 
 
